@@ -15,7 +15,7 @@ import java.util.ArrayList;
 public class NutritionEnterprise extends Enterprise {
    
     public NutritionEnterprise(String name, EnterpriseNetwork network){
-        super(name,Enterprise.EnterpriseType.FitnessGoodsEnterprise, network);
+        super(name,Enterprise.EnterpriseType.NutritionEnterprise, network);
     }
     //hash map to for Fire Man role addition
 
